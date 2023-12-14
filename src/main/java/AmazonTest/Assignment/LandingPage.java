@@ -12,6 +12,8 @@ import AmazonTest.Components.Components;
 
 public class LandingPage extends Components {
 	
+	
+	
 WebDriver driver;
 	
 	public LandingPage(WebDriver driver)
